@@ -63,15 +63,31 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+const dataportfolio = [
+    {
+        img: "https://i.imgur.com/1J8YRhY.png",
+        description: "Images CRUD MERN.",
+        link: "https://mern-image-crud.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.imgur.com/SHZa0wj.png",
+        description: "Real Estate Website.",
+        link: "https://real-estate-frontend-mu.vercel.app/",
+    },
+    {
+        img: "https://i.imgur.com/NvPFws6.png",
+        description: "Users management frontend.",
+        link: "https://users-crud-frontend-hazel.vercel.app/",
+    },
+    {
+        img: "https://camo.githubusercontent.com/76d91bafa7015b009f061c755d43e4d65733a8e46f88c10e3e9075f6c82398c0/68747470733a2f2f692e696d6775722e636f6d2f746273476944382e706e67",
+        description: "Promptopia.",
+        link: "https://promptopia-mu-topaz.vercel.app/",
+    },
+    {
+        img: "https://imgur.com/2JZkmtH",
+        description: "Changelog-api.",
+        link: "https://github.com/chitranshk1301/changelog-api",
     },
 ];
 
