@@ -7,8 +7,8 @@ const meta = {
 const introdata = {
     title: "I’m Chitransh Kulshrestha",
     animated: {
-        first: "I love programming",
-        second: "I am a MERN stack developer",
+        first: "I am a MERN stack developer",
+        second: "I love programming",
         third: "I am a software engineering student",
     },
     description: "A passionate full-stack developer with a love for coffee and an insatiable curiosity for all things tech.",
