@@ -12,7 +12,8 @@ const introdata = {
         third: "I am a software engineering student",
     },
     description: "A passionate full-stack developer with a love for coffee and an insatiable curiosity for all things tech.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://i.imgur.com/dO7Ibmr.jpg",
 };
 
 const dataabout = {
