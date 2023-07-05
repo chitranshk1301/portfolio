@@ -94,7 +94,8 @@ section {
 .intro_sec .h_bg-image {
     background-size: cover;
     background-position: center;
-    min-height: 700px;
+    min-height: 500px;
+    max-width: 500px;
     position: relative;
 }
 
