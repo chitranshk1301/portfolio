@@ -20,16 +20,23 @@ const dataabout = {
     title: "A bit about my self",
     aboutme: "Passionate full stack developer with expertise in front-end and back-end technologies. Skilled in HTML, CSS, JavaScript, Python, and C++, and experienced with frameworks like React and Node.js. Committed to delivering scalable and user-centric web applications. Constantly seeking opportunities to expand knowledge and stay up-to-date with emerging technologies. Thrives in collaborative environments, contributing to impactful digital experiences. Let's connect and explore the limitless possibilities of full stack development together!",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
         jobtitle: "Full Stack Developer",
-        where: "Patilkaki",
-        date: "Dec-2022 - Jan-2023",
+        where: "HUBX",
+        date: "Jul-2023 - Present",
     },
     {
         jobtitle: "Web Developer",
         where: "GUC IIIT Bhopal",
         date: "Aug-2022 - Present",
     },
+    {
+        jobtitle: "Full Stack Developer",
+        where: "Patilkaki",
+        date: "Dec-2022 - Jan-2023",
+    },
+
 ];
 
 const skills = [{
