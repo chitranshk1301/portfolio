@@ -1,4 +1,3 @@
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
 
 ### Features
 
@@ -12,7 +11,7 @@
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/chitranshk1301/portfolio.git</pre>
  
 Install required dependencies
 
