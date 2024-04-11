@@ -13,7 +13,7 @@ const introdata = {
     },
     description: "A passionate full-stack developer with a love for coffee and an insatiable curiosity for all things tech.",
     // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
-    your_img_url: "https://i.pinimg.com/736x/a0/ed/1c/a0ed1cfa002fb8c606733dceff984ee7.jpg",
+    your_img_url: "https://i.pinimg.com/736x/3d/48/c0/3d48c0dcde4f8a97e1d6fecba622aa4a.jpg",
 };
 
 const dataabout = {
