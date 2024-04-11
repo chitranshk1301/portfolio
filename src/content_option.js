@@ -13,7 +13,7 @@ const introdata = {
     },
     description: "A passionate full-stack developer with a love for coffee and an insatiable curiosity for all things tech.",
     // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
-    your_img_url: "https://i.imgur.com/dO7Ibmr.jpg",
+    your_img_url: "https://i.pinimg.com/736x/a0/ed/1c/a0ed1cfa002fb8c606733dceff984ee7.jpg",
 };
 
 const dataabout = {
@@ -85,7 +85,7 @@ const dataportfolio = [
     {
         img: "https://i.imgur.com/SHZa0wj.png",
         description: "Real Estate Website.",
-        link: "https://real-estate-frontend-mu.vercel.app/",
+        link: "https://real-estate-frontend-mocha.vercel.app/",
     },
     {
         img: "https://i.imgur.com/NvPFws6.png",
