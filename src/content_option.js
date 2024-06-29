@@ -22,6 +22,11 @@ const dataabout = {
 };
 const worktimeline = [
     {
+        jobtitle: "Software developer intern",
+        where: "Blinkadz",
+        date: "June-2024 - Present",
+    
+    {
         jobtitle: "Frontend Developer",
         where: "StellarByte",
         date: "Aug-2023 - Oct-2023",
